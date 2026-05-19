@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <!-- Favicon -->
+    <link rel="icon" href="/logo.png" />
+    <link rel="apple-touch-icon" href="/logo.png" />
+    <!-- Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ff003c" />
+    <!-- Primary SEO Title -->
+    <title>
+      Veer Consultancy | Passport, Visa &amp; Immigration Services in India
+    </title>
+    <!-- Meta Description (High CTR, Trust Based) -->
+    <meta name="description" content="Veer Consultancy offers trusted passport, visa, immigration, tourist, student &amp; work visa services in India. Get expert guidance, fast processing &amp; transparent support. Call now for free consultation." />
+    <!-- SEO Keywords (Optional but Useful) -->
+    <meta name="keywords" content="Veer Consultancy, visa consultant, passport agent, immigration services, tourist visa, student visa, work visa, visa consultant India" />
+    <!-- Open Graph (For WhatsApp, Facebook sharing) -->
+    <meta property="og:title" content="Veer Consultancy | Trusted Visa &amp; Passport Services" />
+    <meta property="og:description" content="Expert visa, passport &amp; immigration consultancy. Fast, transparent and trusted services across India." />
+    <meta property="og:image" content="/logo.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://veerconsultancy.com" />
+    <!-- Razorpay Payment Gateway -->
+    <script src="https://checkout.razorpay.com/v1/checkout.js">
+    </script>
+    <script type="module" crossorigin="" src="/assets/index-BKNC44Mn.js">
+    </script>
+    <link rel="stylesheet" crossorigin="" href="/assets/index-C-1cquf9.css" />
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this application.
+    </noscript>
+    <div id="root">
+    </div>
+  </body>
+</html>
